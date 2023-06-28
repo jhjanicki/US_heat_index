@@ -16,6 +16,7 @@
     - Mask layer: US shapefile (state or country level)
     - Source CRS: EPSG 4326-WGS84
     - Target CRS: EPSG 4326-WGS84
+6. Now style the layer using symbology --> singleband pseudocolor 
 
 ## Data
 NOAA maximum heat index forecast
