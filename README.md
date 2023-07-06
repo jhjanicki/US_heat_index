@@ -23,5 +23,5 @@ NOAA maximum heat index forecast
 Link: https://ftp.wpc.ncep.noaa.gov/shapefiles/heatindex/
 
 ## Some example outputs (testing different colors)
-<img width="882" alt="Screenshot 2023-06-28 at 10 46 12" src="https://github.com/jhjanicki/US_heat_index/assets/6565011/3e428b2d-c2d5-4b46-afb5-47f24d06fd7a">
-<img width="865" alt="Screenshot 2023-06-28 at 10 45 39" src="https://github.com/jhjanicki/US_heat_index/assets/6565011/486d3ccc-bb42-469a-9070-1b7c4f696e39">
+<img width="882" alt="Screenshot 2023-06-28 at 10 46 12" src="https://github.com/jhjanicki/US_heat_index/assets/6565011/93c03ffb-2503-4cc6-a2f5-0c1632cd03bf">
+<img width="865" alt="Screenshot 2023-06-28 at 10 45 39" src="https://github.com/jhjanicki/US_heat_index/assets/6565011/8c90b404-a9c9-4bbc-9cfa-84e11108803d">
