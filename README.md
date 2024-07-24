@@ -20,7 +20,10 @@
 
 ## Data
 NOAA maximum heat index forecast
+Source: WPC Products in Shapefile Format (https://www.wpc.ncep.noaa.gov/html/about_gis.shtml)
 Link: https://ftp.wpc.ncep.noaa.gov/shapefiles/heatindex/
+
+Data is list by date with five files per date and ending with the day of the forecast indicated in hours so Day 3 of the Wednesday June 28 forecast is shown as with maxhi_f072_latest.tar, where 72 is hours, so the forecast for Saturday July 1.
 
 ## Some example outputs (testing different colors)
 <img width="882" alt="Screenshot 2023-06-28 at 10 46 12" src="https://github.com/jhjanicki/US_heat_index/assets/6565011/93c03ffb-2503-4cc6-a2f5-0c1632cd03bf">
